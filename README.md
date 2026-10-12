@@ -6,7 +6,7 @@ Group project for CSC186 (Object-Oriented Programming), Diploma in Computer Scie
 
 ## Demo
 
-[![Watch the demo]](https://youtu.be/PN6JlgJoAMU)
+[[Watch the demo]](https://youtu.be/PN6JlgJoAMU)
 
 ## How it works
 
